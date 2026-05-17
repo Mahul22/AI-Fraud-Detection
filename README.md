@@ -6,8 +6,12 @@ An end-to-end Machine Learning application that detects fraudulent credit card t
 
 This project is designed to simulate a production-grade fintech fraud analytics platform with:
 
-real-time fraud prediction
-interactive dashboard visualization
-REST API deployment
-ML model serving
-explainable and scalable architecture
+1. Real-time fraud prediction
+
+2. Interactive dashboard visualization
+
+3. REST API deployment
+
+4. ML model serving
+
+5. Explainable and scalable architecture
