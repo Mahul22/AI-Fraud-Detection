@@ -15,3 +15,17 @@ This project is designed to simulate a production-grade fintech fraud analytics 
 4. ML model serving
 
 5. Explainable and scalable architecture
+
+
+Snapshots of Functionality:
+
+
+<img width="1473" height="915" alt="Screenshot 2026-05-17 195450" src="https://github.com/user-attachments/assets/47f5eb74-4b9d-4dab-acdf-363b0042f0b1" />
+
+
+
+
+
+
+<img width="1911" height="1010" alt="Screenshot 2026-05-17 195611" src="https://github.com/user-attachments/assets/b7d45d0c-514b-4c5c-8a52-85b9b4ae8ec0" />
+
